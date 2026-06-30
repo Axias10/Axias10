@@ -17,7 +17,7 @@ Designing production-ready agentic architectures, high-performance data pipeline
 
 ### Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Axias10&show_icons=true&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&count_private=true&include_all_commits=true&hide_rank=true&v=2&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axias10&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&ring_color=4285F4&fire_color=4285F4" height="150" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axias10&layout=compact&theme=transparent&hide_border=true&title_color=c9d1d9&text_color=8b949e&langs_count=5&hide=jupyter%20notebook" height="150" alt="Top Languages" />
 </p>
 
