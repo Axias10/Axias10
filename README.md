@@ -5,6 +5,7 @@ Designing production-ready agentic architectures, high-performance data pipeline
 
 ### Certification
 ![GCP Professional ML Engineer](https://img.shields.io/badge/GCP-Professional_ML_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Anthropic CCA-F](https://img.shields.io/badge/Anthropic-CCA--F-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Tech Stack & Ecosystem
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
